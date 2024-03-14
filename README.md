@@ -1,0 +1,3 @@
+- 👋 Olá, eu me chamo Raul!
+- 👀 Sou interessado por Programação Web
+- 🌱 Atualmente estou aprendendo Java e PHP
