@@ -1,3 +1,2 @@
-- 👋 Olá, eu me chamo Raul!
-- 👀 Sou interessado por Programação Web
-- 🌱 Atualmente estou aprendendo Java e PHP
+- Olá, eu me chamo Raul!
+- Atualmente estou aprendendo Java, PHP, C++, HTML e CSS.
